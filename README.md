@@ -1,1 +1,1 @@
-# verficador-de-g-nero
+# verficador-de-genero
